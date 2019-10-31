@@ -1,4 +1,4 @@
-# Css and js code compression tools
+# CSS and JS code compression tools
 
 ## Description
 
@@ -16,7 +16,7 @@ npm i
 
 ## Operation instructions
 
-1. Put the css source file in the ocss folder of the root directory
-2. Put the js source file in the ojs folder of the root directory
+1. Put the CSS source file in the ocss folder of the root directory
+2. Put the JS source file in the ojs folder of the root directory
 3. Execute the `node ./app.js` commands in the root directory
 4. The compressed files are in the mcss and mjs folders respectively
