@@ -2,7 +2,8 @@
 
 ## Description
 
-[中文说明](./READEME_CN.md)
+[中文说明](./README_CN.md)
+
 This compression tool relies on the node environment
 
 ## Download and install
