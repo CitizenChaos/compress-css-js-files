@@ -1,0 +1,16 @@
+.a {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin: 0 auto;
+  position: relative;
+}
+
+.a .b {
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  position: absolute;
+  top: 0;
+  left: 20px;
+}
